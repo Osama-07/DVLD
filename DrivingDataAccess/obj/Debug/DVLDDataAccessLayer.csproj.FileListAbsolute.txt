@@ -1,0 +1,12 @@
+C:\Users\TOSHIBA\Desktop\Osama Projects\Full project\DrivingDataAccess\bin\Debug\DrivingDataAccess.dll
+C:\Users\TOSHIBA\Desktop\Osama Projects\Full project\DrivingDataAccess\bin\Debug\DrivingDataAccess.pdb
+C:\Users\TOSHIBA\Desktop\Osama Projects\Full project\DrivingDataAccess\obj\Debug\DVLDDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Osama Projects\Full project\DrivingDataAccess\obj\Debug\DVLDDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Osama Projects\Full project\DrivingDataAccess\obj\Debug\DrivingDataAccess.dll
+C:\Users\TOSHIBA\Desktop\Osama Projects\Full project\DrivingDataAccess\obj\Debug\DrivingDataAccess.pdb
+D:\سطح المكتب\DVLD\DrivingDataAccess\bin\Debug\DrivingDataAccess.dll
+D:\سطح المكتب\DVLD\DrivingDataAccess\bin\Debug\DrivingDataAccess.pdb
+D:\سطح المكتب\DVLD\DrivingDataAccess\obj\Debug\DVLDDataAccessLayer.csproj.AssemblyReference.cache
+D:\سطح المكتب\DVLD\DrivingDataAccess\obj\Debug\DVLDDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\سطح المكتب\DVLD\DrivingDataAccess\obj\Debug\DrivingDataAccess.dll
+D:\سطح المكتب\DVLD\DrivingDataAccess\obj\Debug\DrivingDataAccess.pdb

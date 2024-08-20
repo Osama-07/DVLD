@@ -1,0 +1,27 @@
+C:\Users\TOSHIBA\Desktop\Osama Projects\Full project\DrivingBusinessLayer\bin\Debug\DrivingBusinessLayer.dll
+C:\Users\TOSHIBA\Desktop\Osama Projects\Full project\DrivingBusinessLayer\bin\Debug\DrivingBusinessLayer.pdb
+C:\Users\TOSHIBA\Desktop\Osama Projects\Full project\DrivingBusinessLayer\bin\Debug\DrivingDataAccess.dll
+C:\Users\TOSHIBA\Desktop\Osama Projects\Full project\DrivingBusinessLayer\bin\Debug\DrivingDataAccess.pdb
+C:\Users\TOSHIBA\Desktop\Osama Projects\Full project\DrivingBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Osama Projects\Full project\DrivingBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Osama Projects\Full project\DrivingBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\Osama Projects\Full project\DrivingBusinessLayer\obj\Debug\DrivingBusinessLayer.dll
+C:\Users\TOSHIBA\Desktop\Osama Projects\Full project\DrivingBusinessLayer\obj\Debug\DrivingBusinessLayer.pdb
+D:\سطح المكتب\Osama Projects\Full project\DrivingBusinessLayer\bin\Debug\DrivingBusinessLayer.dll
+D:\سطح المكتب\Osama Projects\Full project\DrivingBusinessLayer\bin\Debug\DrivingBusinessLayer.pdb
+D:\سطح المكتب\Osama Projects\Full project\DrivingBusinessLayer\bin\Debug\DrivingDataAccess.dll
+D:\سطح المكتب\Osama Projects\Full project\DrivingBusinessLayer\bin\Debug\DrivingDataAccess.pdb
+D:\سطح المكتب\Osama Projects\Full project\DrivingBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.AssemblyReference.cache
+D:\سطح المكتب\Osama Projects\Full project\DrivingBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.CoreCompileInputs.cache
+D:\سطح المكتب\Osama Projects\Full project\DrivingBusinessLayer\obj\Debug\DVLDBusi.7D6D57CA.Up2Date
+D:\سطح المكتب\Osama Projects\Full project\DrivingBusinessLayer\obj\Debug\DrivingBusinessLayer.dll
+D:\سطح المكتب\Osama Projects\Full project\DrivingBusinessLayer\obj\Debug\DrivingBusinessLayer.pdb
+D:\سطح المكتب\DVLD\DrivingBusinessLayer\bin\Debug\DrivingBusinessLayer.dll
+D:\سطح المكتب\DVLD\DrivingBusinessLayer\bin\Debug\DrivingBusinessLayer.pdb
+D:\سطح المكتب\DVLD\DrivingBusinessLayer\bin\Debug\DrivingDataAccess.dll
+D:\سطح المكتب\DVLD\DrivingBusinessLayer\bin\Debug\DrivingDataAccess.pdb
+D:\سطح المكتب\DVLD\DrivingBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.AssemblyReference.cache
+D:\سطح المكتب\DVLD\DrivingBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.CoreCompileInputs.cache
+D:\سطح المكتب\DVLD\DrivingBusinessLayer\obj\Debug\DVLDBusi.7D6D57CA.Up2Date
+D:\سطح المكتب\DVLD\DrivingBusinessLayer\obj\Debug\DrivingBusinessLayer.dll
+D:\سطح المكتب\DVLD\DrivingBusinessLayer\obj\Debug\DrivingBusinessLayer.pdb
